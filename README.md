@@ -32,4 +32,4 @@ Development Tools: Git, Docker, REST APIs
 **📫 Get In Touch:**
 
 - 📧 [Email](mailto:jane.e.lai@gmail.com)
-- 🔗 [LinkedIn]((https://www.linkedin.com/in/jane-e-lai/))
+- 🔗 [LinkedIn](https://www.linkedin.com/in/jane-e-lai/)
