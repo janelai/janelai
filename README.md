@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 
 🎓 CS Graduate from UC Irvine, current Frontend Developer at Prism Software and M.S. Data Science student at UC Berkeley.
+
 🌱 Exploring interests in AI/ML, web development, and data analytics.
 
 **🚀 Projects & Contributions**
@@ -31,5 +32,5 @@ Development Tools: Git, Docker, REST APIs
 
 **📫 Get In Touch:**
 
-- 📧 [Email](mailto:jane.e.lai@gmail.com)
-- 🔗 [LinkedIn](https://www.linkedin.com/in/jane-e-lai/)
+- 📧 [jane.e.lai@gmail.com](mailto:jane.e.lai@gmail.com)
+- 🔗 [linkedin.com/jane-e-lai](https://www.linkedin.com/in/jane-e-lai/)
