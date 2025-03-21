@@ -19,14 +19,17 @@ Here are some ideas to get you started:
 🌱 Exploring interests in AI/ML, web development, and data analytics.
 
 **🚀 Projects & Contributions**
+
 Developed content moderation solutions for an online news platform to identify harmful content.
 Worked on a take-home assignment for Cadent Media as part of a final-round interview for the Associate Frontend Engineer role.
 
 **🛠️ Skills**
+
 Languages & Frameworks: Python, C++, TypeScript, HTML/CSS, AngularJS
 Testing & Automation: Selenium, Python Automation
 Development Tools: Git, Docker, REST APIs
 
 **📫 Get In Touch:**
+
 - 📧 [Email](mailto:jane.e.lai@gmail.com)
 - 🔗 [LinkedIn]([url](https://www.linkedin.com/in/jane-e-lai/))
