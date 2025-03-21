@@ -26,9 +26,8 @@ Worked on a take-home assignment for Cadent Media as part of a final-round inter
 
 **🛠️ Skills**
 
-Languages & Frameworks: Python, C++, TypeScript, HTML/CSS, AngularJS
-Testing & Automation: Selenium, Python Automation
-Development Tools: Git, Docker, REST APIs
+- Languages & Frameworks: Python, C++, JavaScript (React, Angular, TypeScript, Node), HTML, CSS, SQL, R
+- Development Tools: AWS, Azure DevOps, TeamCity, Git, Docker
 
 **📫 Get In Touch:**
 
