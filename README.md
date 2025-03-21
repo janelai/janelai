@@ -19,11 +19,6 @@ Here are some ideas to get you started:
 
 🌱 Exploring interests in AI/ML, web development, and data analytics.
 
-**🚀 Projects & Contributions**
-
-Developed content moderation solutions for an online news platform to identify harmful content.
-Worked on a take-home assignment for Cadent Media as part of a final-round interview for the Associate Frontend Engineer role.
-
 **🛠️ Skills**
 
 - Languages & Frameworks: Python, C++, JavaScript (React, Angular, TypeScript, Node), HTML, CSS, SQL, R
