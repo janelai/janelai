@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi, I'm Jane 👋
 
 <!--
 **janelai/janelai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+🎓 CS Graduate from UC Irvine, current Frontend Developer at Prism Software and M.S. Data Science student at UC Berkeley.
+🌱 Exploring interests in AI/ML, web development, and data analytics.
+
+**🚀 Projects & Contributions**
+Developed content moderation solutions for an online news platform to identify harmful content.
+Worked on a take-home assignment for Cadent Media as part of a final-round interview for the Associate Frontend Engineer role.
+
+**🛠️ Skills**
+Languages & Frameworks: Python, C++, TypeScript, HTML/CSS, AngularJS
+Testing & Automation: Selenium, Python Automation
+Development Tools: Git, Docker, REST APIs
+
+**📫 Get In Touch:**
+- 📧 [Email](mailto:jane.e.lai@gmail.com)
+- 🔗 [LinkedIn]([url](https://www.linkedin.com/in/jane-e-lai/))
