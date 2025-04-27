@@ -38,6 +38,13 @@ Here are some ideas to get you started:
 </p>
 <br>
 
+### [Modeling Age Based Disparities in Workplace Technology Adoption](https://github.com/janelai/Modeling-Age-Based-Disparities-in-Workplace-Technology-Adoption)
+<p>
+  <img src="assets/workplace-technology.jpg" align="left" width="200" style="margin-right: 10px; margin-bottom: 10px;">
+  This project investigates how the percentage of time spent using electronic technologies at work varies by age. The analysis explores age-related disparities in technology usage across different job types and industries. By examining the relationship between age, work hours, and technology adoption while controlling for industry and occupation, the study aims to provide insights into workforce development and inform policies on technology training and support for diverse age groups in professional environments.
+</p>
+<br>
+
 ### [Partisan Divergence in Education Policy Preferences: A Statistical Exploration](https://github.com/janelai/Partisan-Divergence-in-Education-Policy-Preferences-A-Statistical-Exploration)
 <p>
   <img src="assets/partisan-education.jpg" align="left" width="200" style="margin-right: 10px; margin-bottom: 10px;">
