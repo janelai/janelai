@@ -31,6 +31,13 @@ Here are some ideas to get you started:
 
 ## Portfolio
 
+### [Partisan Divergence in Education Policy Preferences: A Statistical Exploration](https://github.com/janelai/Partisan-Divergence-in-Education-Policy-Preferences-A-Statistical-Exploration)
+<p>
+  <img src="assets/partisan-education.jpg" align="left" width="200" style="margin-right: 10px; margin-bottom: 10px;">
+  This project conducts a quantitative analysis to explore partisan disparities in primary and secondary education policy preferences between Democratic and Republican voters. Using data from the ANES 2024 Pilot Study, the analysis examines attitudes toward education, including views on the role of college professors and perceptions of party handling of public school curricula. The goal is to uncover any significant differences in how voters from each party approach education policy and to provide insights into the impact of political affiliation on educational priorities.
+</p>
+<br>
+
 ### [Graph-Theoretical Approach to Uncovering Hidden Risks in Stock Market Portfolios](https://github.com/janelai/Graph-Theoretical-Approach-to-Uncovering-Hidden-Risks-in-Stock-Market-Portfolios)
 <p>
   <img src="assets/stocks.jpg" align="left" width="200" style="margin-right: 10px; margin-bottom: 10px;">
