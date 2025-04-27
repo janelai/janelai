@@ -55,6 +55,13 @@ Here are some ideas to get you started:
 </p>
 <br>
 
+### [Global Socioeconomic Indicators: A Multivariate Analysis](https://github.com/janelai/Global-Socioeconomic-Indicators-A-Multivariate-Analysis)
+<p>
+  <img src="assets/wdi.jpg" align="left" width="200" style="margin-right: 10px; margin-bottom: 10px;">
+  This project analyzes the relationship between various global socioeconomic indicators, including government expenditure on education and GDP per capita, across three regions: Western Europe, Western Africa, and South Asia. Using a dataset from World Development Indicators (2000-2023), the study explores how education spending and economic development correlate within different regions, revealing nuanced insights into the factors that drive economic growth and educational disparities. Statistical methods such as clustering and influence analysis were applied to uncover hidden dependencies and cross-sector relationships not typically visible in standard models.
+</p>
+<br>
+
 ### [Insul-in Prototype](https://github.com/janelai/Insul-In_Prototype)
 <p>
   <img src="assets/gluki-full-logo.jpg" align="left" width="200" style="margin-right: 10px; margin-bottom: 10px;">
