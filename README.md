@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🎓 CS Graduate from UC Irvine, current Frontend Developer at Prism Software and M.S. Data Science student at UC Berkeley.
+🎓 CS Graduate from UC Irvine, current Frontend Developer at Prism Software, and M.S. Data Science student at UC Berkeley.
 
 🌱 Exploring interests in AI/ML, frontend development, and data analytics.
 
@@ -28,3 +28,7 @@ Here are some ideas to get you started:
 
 - 📧 [jane.e.lai@gmail.com](mailto:jane.e.lai@gmail.com)
 - 🔗 [linkedin.com/jane-e-lai](https://www.linkedin.com/in/jane-e-lai/)
+
+## Portfolio
+[Insul-in (Prototype)]([url](https://github.com/janelai/Insul-In_Prototype.git))
+Insul-in is a mobile game developed as part of project GLUKI to educate children with Type 1 Diabetes on the process of administering insulin. In this interactive "brick breaker"-style game, players learn through gameplay, making it engaging while also promoting health education.
