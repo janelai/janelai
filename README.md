@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 ### [Plant Tracker App](https://github.com/janelai/plant-tracker)
 <p>
   <img src="assets/plants.jpg" align="left" width="200" style="margin-right: 10px; margin-bottom: 10px;">
-  A project in the works :)
+  This project is a simple and intuitive tool designed for plant lovers to easily manage and care for their plants. With this app, users can store plant details like names, species, and photos, while keeping track of care activities such as watering and repotting. It offers the convenience of setting reminders to stay on top of watering schedules and logs plant care actions. A project in the works :)
 </p>
 <br>
 <br>
