@@ -30,10 +30,16 @@ Here are some ideas to get you started:
 - 🔗 [linkedin.com/jane-e-lai](https://www.linkedin.com/in/jane-e-lai/)
 
 ## Portfolio
-### [Insul-in Prototype](https://github.com/janelai/Insul-In_Prototype)
 
+### [Graph-Theoretical Approach to Uncovering Hidden Risks in Stock Market Portfolios](https://github.com/janelai/Graph-Theoretical-Approach-to-Uncovering-Hidden-Risks-in-Stock-Market-Portfolios)
+<p>
+  <img src="assets/stocks.jpg" align="left" width="200" style="margin-right: 10px; margin-bottom: 10px;">
+  This project models stocks as a correlation network to uncover hidden dependencies that traditional sector-based diversification overlooks. Using the Louvain algorithm to detect clusters of correlated assets and PageRank to identify influential stocks, it reveals cross-sector relationships and systemic risks not visible in standard models.
+</p>
+<br>
+
+### [Insul-in Prototype](https://github.com/janelai/Insul-In_Prototype)
 <p>
   <img src="assets/gluki-full-logo.jpg" align="left" width="200" style="margin-right: 10px; margin-bottom: 10px;">
   Insul-in is a mobile game developed as part of project GLUKI to educate young children with Type 1 Diabetes on the process of administering insulin. The game takes on a "brick breaker"-style format, making learning about insulin administration fun and interactive. The app aims to teach children the importance of managing their condition through gameplay, combining education with entertainment to help reinforce key concepts. This project was developed by a team of 5 using Unity Canvas, with design mock-ups created in Figma. As the UI artist, I designed the in-game user interface, including the HUD and other creative components.
 </p>
-<br>
