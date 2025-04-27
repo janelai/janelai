@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 - Languages & Frameworks: Python, C++, JavaScript (React, Angular, TypeScript, Node), HTML, CSS, SQL, R
 - Development Tools: AWS, Azure DevOps, TeamCity, Git, Docker
 
-I’m actively looking for full-time roles in Software Engineering, Frontend Development, and Data Analysis/Engineering. I’m passionate about working on impactful projects that combine data-driven decision-making with technology and design to solve real-world problems. If you’re interested in collaborating, please feel free to connect with me via the following platforms!
+👩‍💻 I’m actively looking for full-time roles in Software Engineering, Frontend Development, and Data Analysis/Engineering. I’m passionate about working on impactful projects that combine data-driven decision-making with technology and design to solve real-world problems. If you’re interested in collaborating, please feel free to connect with me via the following platforms!
 
 - 📧 [jane.e.lai@gmail.com](mailto:jane.e.lai@gmail.com)
 - 🔗 [linkedin.com/jane-e-lai](https://www.linkedin.com/in/jane-e-lai/)
