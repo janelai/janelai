@@ -30,10 +30,10 @@ Here are some ideas to get you started:
 - 🔗 [linkedin.com/jane-e-lai](https://www.linkedin.com/in/jane-e-lai/)
 
 ## Portfolio
-### [Insul-in](https://github.com/janelai/Insul-In_Prototype)
+### [Insul-in Prototype](https://github.com/janelai/Insul-In_Prototype)
 
 <p>
-  <img src="" align="left" width="200" style="margin-right: 10px; margin-bottom: 10px;">
-  Insul-in is a mobile game developed as part of project GLUKI to educate children with Type 1 Diabetes on the process of administering insulin. In this interactive "brick breaker"-style game, players learn through gameplay, making it engaging while also promoting health education.
+  <img src="assets/gluki-full-logo.jpg" align="left" width="200" style="margin-right: 10px; margin-bottom: 10px;">
+  Insul-in is a mobile game developed as part of project GLUKI to educate children with Type 1 Diabetes on the process of administering insulin. In this interactive "brick breaker"-style game, players learn through gameplay, making it engaging while also promoting health education. The project was developed by a team of 5 using Unity Canvas, with design mock-ups created in Figma. As the UI artist, I designed the in-game user interface, including the HUD and other creative components.
 </p>
 <br>
