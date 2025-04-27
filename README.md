@@ -37,9 +37,6 @@ Here are some ideas to get you started:
   This project is a simple and intuitive tool designed for plant lovers to easily manage and care for their plants. With this app, users can store plant details like names, species, and photos, while keeping track of care activities such as watering and repotting. It offers the convenience of setting reminders to stay on top of watering schedules and logs plant care actions. A project in the works :)
 </p>
 <br>
-<br>
-<br>
-<br>
 
 ### [Partisan Divergence in Education Policy Preferences: A Statistical Exploration](https://github.com/janelai/Partisan-Divergence-in-Education-Policy-Preferences-A-Statistical-Exploration)
 <p>
