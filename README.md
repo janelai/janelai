@@ -45,17 +45,17 @@ Here are some ideas to get you started:
 </p>
 <br>
 
-### [Partisan Divergence in Education Policy Preferences: A Statistical Exploration](https://github.com/janelai/Partisan-Divergence-in-Education-Policy-Preferences-A-Statistical-Exploration)
-<p>
-  <img src="assets/partisan-education.jpg" align="left" width="200" style="margin-right: 10px; margin-bottom: 10px;">
-  This project analyzes partisan disparities in primary and secondary education policy preferences between Democratic and Republican voters using data from the ANES 2024 Pilot Study. It examines attitudes toward education, including views on college professors and perceptions of party handling public school curricula. The goal is to uncover differences in how each party approaches education policy and understand the impact of political affiliation on educational priorities.
-</p>
-<br>
-
 ### [Graph-Theoretical Approach to Uncovering Hidden Risks in Stock Market Portfolios](https://github.com/janelai/Graph-Theoretical-Approach-to-Uncovering-Hidden-Risks-in-Stock-Market-Portfolios)
 <p>
   <img src="assets/stocks.jpg" align="left" width="200" style="margin-right: 10px; margin-bottom: 10px;">
   This project models stocks as a correlation network to uncover hidden dependencies that traditional sector-based diversification overlooks. Using the Louvain algorithm to detect clusters of correlated assets and PageRank to identify influential stocks, it reveals cross-sector relationships and systemic risks not visible in standard models.
+</p>
+<br>
+
+### [Partisan Divergence in Education Policy Preferences: A Statistical Exploration](https://github.com/janelai/Partisan-Divergence-in-Education-Policy-Preferences-A-Statistical-Exploration)
+<p>
+  <img src="assets/partisan-education.jpg" align="left" width="200" style="margin-right: 10px; margin-bottom: 10px;">
+  This project analyzes partisan disparities in primary and secondary education policy preferences between Democratic and Republican voters using data from the ANES 2024 Pilot Study. It examines attitudes toward education, including views on college professors and perceptions of party handling public school curricula. The goal is to uncover differences in how each party approaches education policy and understand the impact of political affiliation on educational priorities.
 </p>
 <br>
 
