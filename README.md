@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 - 📧 [jane.e.lai@gmail.com](mailto:jane.e.lai@gmail.com)
 - 🔗 [linkedin.com/jane-e-lai](https://www.linkedin.com/in/jane-e-lai/)
 
-## Portfolio
+## Software Engineering/Frontend Portfolio
 
 ### [Plant Tracker App](https://github.com/janelai/plant-tracker)
 <p>
@@ -37,6 +37,14 @@ Here are some ideas to get you started:
   This project is a simple and intuitive tool designed for plant lovers to easily manage and care for their plants. With this app, users can store plant details like names, species, and photos, while keeping track of care activities such as watering and repotting. It offers the convenience of setting reminders to stay on top of watering schedules and logs plant care actions. A project in the works :)
 </p>
 <br>
+
+### [Insul-in Prototype](https://github.com/janelai/Insul-In_Prototype)
+<p>
+  <img src="assets/gluki-full-logo.jpg" align="left" width="200" style="margin-right: 10px; margin-bottom: 10px;">
+  Insul-in is a mobile game developed as part of project GLUKI to educate young children with Type 1 Diabetes on the process of administering insulin. The game takes on a "brick breaker"-style format, making learning about insulin administration fun and interactive. The app aims to teach children the importance of managing their condition through gameplay, combining education with entertainment to help reinforce key concepts. This project was developed by a team of 5 using Unity Canvas, with design mock-ups created in Figma. As the UI artist, I designed the in-game user interface, including the HUD and other creative components.
+</p>
+
+## Data Science Portfolio
 
 ### [Modeling Age Based Disparities in Workplace Technology Adoption](https://github.com/janelai/Modeling-Age-Based-Disparities-in-Workplace-Technology-Adoption)
 <p>
@@ -65,9 +73,3 @@ Here are some ideas to get you started:
   This project analyzes the relationship between various global socioeconomic indicators, including government expenditure on education and GDP per capita, across three regions: Western Europe, Western Africa, and South Asia. Using a dataset from World Development Indicators (2000-2023), the study explores how education spending and economic development correlate within different regions, revealing nuanced insights into the factors that drive economic growth and educational disparities. Statistical methods such as clustering and influence analysis were applied to uncover hidden dependencies and cross-sector relationships not typically visible in standard models.
 </p>
 <br>
-
-### [Insul-in Prototype](https://github.com/janelai/Insul-In_Prototype)
-<p>
-  <img src="assets/gluki-full-logo.jpg" align="left" width="200" style="margin-right: 10px; margin-bottom: 10px;">
-  Insul-in is a mobile game developed as part of project GLUKI to educate young children with Type 1 Diabetes on the process of administering insulin. The game takes on a "brick breaker"-style format, making learning about insulin administration fun and interactive. The app aims to teach children the importance of managing their condition through gameplay, combining education with entertainment to help reinforce key concepts. This project was developed by a team of 5 using Unity Canvas, with design mock-ups created in Figma. As the UI artist, I designed the in-game user interface, including the HUD and other creative components.
-</p>
