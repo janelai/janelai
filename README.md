@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🎓 CS Graduate from UC Irvine, current Frontend Developer at Prism Software, and M.S. Data Science student at UC Berkeley.
+🎓 CS Graduate from UC Irvine, current Software Engineer at Prism Software, and M.S. Data Science student at UC Berkeley.
 
-🌱 Exploring interests in AI/ML, frontend development, and data analytics.
+🌱 Exploring interests in AI/ML, full-stack development, and data analytics.
 
 **🛠️ Skills**
 
