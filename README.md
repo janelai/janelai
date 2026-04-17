@@ -29,22 +29,21 @@ Here are some ideas to get you started:
 - 📧 [jane.e.lai@gmail.com](mailto:jane.e.lai@gmail.com)
 - 🔗 [linkedin.com/jane-e-lai](https://www.linkedin.com/in/jane-e-lai/)
 
-## Software Engineering/Frontend Portfolio
+## Portfolio
 
-### [Plant Tracker App](https://github.com/janelai/plant-tracker)
+### [Deceptive Pattern Detector](https://github.com/janelai/deceptive-pattern-detector)
 <p>
-  <img src="assets/plants.jpg" align="left" width="200" style="margin-right: 10px; margin-bottom: 10px;">
-  This project is a simple and intuitive tool designed for plant lovers to easily manage and care for their plants. With this app, users can store plant details like names, species, and photos, while keeping track of care activities such as watering and repotting. It offers the convenience of setting reminders to stay on top of watering schedules and logs plant care actions. A project in the works :)
+  <img src="assets/workplace-technology.jpg" align="left" width="200" style="margin-right: 10px; margin-bottom: 10px;">
+  Deceptive Pattern Detector is a browser extension that identifies manipulative design patterns like confirmshaming, fake urgency, and asymmetric choice on websites in real time using machine learning. The system uses a two-tier architecture: a lightweight local gatekeeper that flags suspicious pages, and a cloud-based backend that runs per-pattern models to evaluate the likelihood of each dark pattern type. It is built on a continuously learning training pipeline, where a nightly batch job pulls newly labeled data, balances it against non-dark-pattern samples, retrains each model, and only promotes a new version to production if it outperforms the current model on both a test set and a held-out golden set. The result is a system that starts small but gets smarter over time as more data flows through, without requiring any action from the end user. The extension surfaces its findings through a simple color-coded alert system with descriptions on the pattern it detects, giving everyday internet users the awareness to recognize when a website is trying to manipulate them.
 </p>
 <br>
 
-### [Insul-in Prototype](https://github.com/janelai/Insul-In_Prototype)
+### [Congressional Generational Analysis](https://github.com/UC-Berkeley-I-School/final-project-209-congress)
 <p>
-  <img src="assets/gluki-full-logo.jpg" align="left" width="200" style="margin-right: 10px; margin-bottom: 10px;">
-  Insul-in is a mobile game developed as part of project GLUKI to educate young children with Type 1 Diabetes on the process of administering insulin. The game takes on a "brick breaker"-style format, making learning about insulin administration fun and interactive. The app aims to teach children the importance of managing their condition through gameplay, combining education with entertainment to help reinforce key concepts. This project was developed by a team of 5 using Unity Canvas, with design mock-ups created in Figma. As the UI artist, I designed the in-game user interface, including the HUD and other creative components.
+  <img src="assets/workplace-technology.jpg" align="left" width="200" style="margin-right: 10px; margin-bottom: 10px;">
+  Interactive visualizations of the 119th US Congress, analyzing legislative activity by generation, party, and geography.
 </p>
-
-## Data Science Portfolio
+<br>
 
 ### [Modeling Age Based Disparities in Workplace Technology Adoption](https://github.com/janelai/Modeling-Age-Based-Disparities-in-Workplace-Technology-Adoption)
 <p>
