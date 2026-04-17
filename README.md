@@ -33,14 +33,12 @@ Here are some ideas to get you started:
 
 ### [Deceptive Pattern Detector](https://github.com/janelai/deceptive-pattern-detector)
 <p>
-  <img src="assets/workplace-technology.jpg" align="left" width="200" style="margin-right: 10px; margin-bottom: 10px;">
   Deceptive Pattern Detector is a browser extension that identifies manipulative design patterns like confirmshaming, fake urgency, and asymmetric choice on websites in real time using machine learning. The system uses a two-tier architecture: a lightweight local gatekeeper that flags suspicious pages, and a cloud-based backend that runs per-pattern models to evaluate the likelihood of each dark pattern type. It is built on a continuously learning training pipeline, where a nightly batch job pulls newly labeled data, balances it against non-dark-pattern samples, retrains each model, and only promotes a new version to production if it outperforms the current model on both a test set and a held-out golden set. The result is a system that starts small but gets smarter over time as more data flows through, without requiring any action from the end user. The extension surfaces its findings through a simple color-coded alert system with descriptions on the pattern it detects, giving everyday internet users the awareness to recognize when a website is trying to manipulate them.
 </p>
 <br>
 
 ### [Congressional Generational Analysis](https://github.com/UC-Berkeley-I-School/final-project-209-congress)
 <p>
-  <img src="assets/workplace-technology.jpg" align="left" width="200" style="margin-right: 10px; margin-bottom: 10px;">
   Interactive visualizations of the 119th US Congress, analyzing legislative activity by generation, party, and geography.
 </p>
 <br>
