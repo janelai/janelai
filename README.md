@@ -15,16 +15,33 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🎓 CS Graduate from UC Irvine, current Software Engineer at Prism Software, and M.S. Data Science student at UC Berkeley.
+🎓 B.S. Computer Science graduate from UC Irvine | current M.S. Information & Data Science candidate at UC Berkeley (expected May 2026)
 
-🌱 Exploring interests in AI/ML, full-stack development, and data analytics.
+💼 Software Engineer at Prism Software
 
-**🛠️ Skills**
+🌱 Exploring the intersection of AI/ML, full-stack development, data analytics, and human-centered design.
 
-- Languages & Frameworks: Python, JavaScript (React, Angular, TypeScript, Node), HTML, CSS, SQL, R
-- Development Tools: AWS, Azure DevOps, TeamCity, Git, Docker
+## 🛠️ Skills
 
-👩‍💻 I’m actively looking for full-time roles in Software Engineering, Frontend Development, and Data Analysis/Engineering. I’m passionate about working on impactful projects that combine data-driven decision-making with technology and design to solve real-world problems. If you’re interested in collaborating, please feel free to connect with me via the following platforms!
+**Languages:** Python, JavaScript/TypeScript, SQL, R, HTML, CSS
+
+**Frontend:** React, Next.js, Angular, Redux, Material-UI, Tailwind, PDF.js, SheetJS
+
+**Backend & Databases:** Node.js, PostgreSQL, Supabase, REST APIs
+
+**ML & Data Science:** PyTorch, HuggingFace, XGBoost, scikit-learn, LangChain, Qdrant, Pandas, NumPy, NetworkX
+
+**Data Visualization:** D3.js, Tableau, Altair, Matplotlib, Mermaid
+
+**Cloud & DevOps:** AWS (Lambda), Azure DevOps, Vercel, Docker, Git, TeamCity, CI/CD
+
+## 💡 Interests
+
+AI/ML, full-stack development, data visualization, ethics & privacy in tech, accessibility, and civic tech. Passionate about impactful projects that combine data-driven decision-making with thoughtful design.
+
+## 📫 Let's Connect
+
+Open to full-time Software Engineering and Data Analysis/Engineering opportunities starting May 2026. If you're interested in collaborating, please reach out!
 
 - 📧 [jane.e.lai@gmail.com](mailto:jane.e.lai@gmail.com)
 - 🔗 [linkedin.com/jane-e-lai](https://www.linkedin.com/in/jane-e-lai/)
