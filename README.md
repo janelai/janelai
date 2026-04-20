@@ -63,6 +63,11 @@ Open to full-time Software Engineering and Data Analysis/Engineering opportuniti
 <br>
 
 ### [Predicting Eurovision Placements using ML](https://github.com/janelai/Modeling-Age-Based-Disparities-in-Workplace-Technology-Adoption) &emsp;&emsp;&emsp; <sub><i>Jun - Aug 2025</i></sub>
+<p>
+  <img src="assets/eurovision.jpg" align="left" width="200" style="margin-right: 10px; margin-bottom: 10px;">
+  This project predicts final placements in the Eurovision Song Contest using machine learning models trained on historical contest data, including performance order, country of origin, language, and audio features of each entry. I framed the task as an ordinal regression problem to respect the ranked nature of the target variable and compared several model architectures implemented in TensorFlow to evaluate predictive performance. The study explores how musical and contextual factors influence placement outcomes and highlights the challenges of modeling a competition shaped by both artistic judgment and geopolitical voting patterns.
+</p>
+<br>
 
 ### [Modeling Age-Based Disparities in Workplace Technology Adoption](https://github.com/janelai/Modeling-Age-Based-Disparities-in-Workplace-Technology-Adoption) &emsp;&emsp;&emsp; <sub><i>Mar-Apr 2025</i></sub>
 <p>
