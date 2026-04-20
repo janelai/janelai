@@ -51,7 +51,7 @@ Open to full-time Software Engineering and Data Analysis/Engineering opportuniti
 ### [Deceptive Pattern Detector](https://github.com/janelai/deceptive-pattern-detector) <br> <sub><i>January - April 2026 · UC Berkeley MIDS Capstone</i></sub>
 <p>
   <img src="assets/deceptive-pattern-detector.jpg" align="left" width="200" style="margin-right: 10px; margin-bottom: 10px;">
-  I built a browser extension that detects deceptive design patterns on websites in real time using a two-tier detection system. A lightweight client-side gatekeeper (regex rules and ONNX/WASM inference) filters candidate elements before sending them to cloud-hosted XGBoost models trained per pattern type. The system includes a nightly online retraining pipeline with Golden Set evaluation, versioning, and rollback, along with a performance dashboard to monitor model drift. The goal is to help users recognize manipulative UI tactics as they browse, promoting more transparent digital experiences.
+  My capstone project is a browser extension that detects deceptive design patterns on websites in real time using a two-tier detection system. A lightweight client-side gatekeeper (regex rules and ONNX/WASM inference) filters candidate elements before sending them to cloud-hosted XGBoost models trained per pattern type. The system includes a nightly online retraining pipeline with Golden Set evaluation, versioning, and rollback, along with a performance dashboard to monitor model drift. The goal is to help users recognize manipulative UI tactics as they browse, promoting more transparent digital experiences.
 </p>
 <br>
 
