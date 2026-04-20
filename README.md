@@ -25,15 +25,15 @@ Here are some ideas to get you started:
 
 **Languages:** Python, JavaScript/TypeScript, SQL, R, HTML, CSS
 
-**Frontend:** React, Next.js, Angular, Redux, Material-UI, Tailwind, PDF.js, SheetJS
+**Frontend:** React, Next.js, Angular, Redux, Material-UI, Tailwind
 
-**Backend & Databases:** Node.js, PostgreSQL, Supabase, REST APIs
+**Backend & Databases:** Node.js, PostgreSQL, Supabase, MongoDB, REST APIs
 
 **ML & Data Science:** PyTorch, HuggingFace, XGBoost, scikit-learn, LangChain, Qdrant, Pandas, NumPy, NetworkX
 
 **Data Visualization:** D3.js, Tableau, Altair, Matplotlib, Mermaid
 
-**Cloud & DevOps:** AWS (Lambda), Azure DevOps, Vercel, Docker, Git, TeamCity, CI/CD
+**Cloud & DevOps:** AWS (Lambda, CloudWatch, S3, VPC), Azure DevOps, Vercel, Docker, Git, TeamCity, CI/CD
 
 ## 💡 Interests
 
@@ -50,40 +50,40 @@ Open to full-time Software Engineering and Data Analysis/Engineering opportuniti
 
 ### [Deceptive Pattern Detector](https://github.com/janelai/deceptive-pattern-detector)
 <p>
-  Deceptive Pattern Detector is a browser extension that identifies manipulative design patterns like confirmshaming, fake urgency, and asymmetric choice on websites in real time using machine learning. The system uses a two-tier architecture: a lightweight local gatekeeper that flags suspicious pages, and a cloud-based backend that runs per-pattern models to evaluate the likelihood of each dark pattern type. It is built on a continuously learning training pipeline, where a nightly batch job pulls newly labeled data, balances it against non-dark-pattern samples, retrains each model, and only promotes a new version to production if it outperforms the current model on both a test set and a held-out golden set. The result is a system that starts small but gets smarter over time as more data flows through, without requiring any action from the end user. The extension surfaces its findings through a simple color-coded alert system with descriptions on the pattern it detects, giving everyday internet users the awareness to recognize when a website is trying to manipulate them.
+  I built a browser extension that detects deceptive design patterns on websites in real time using a two-tier detection system. A lightweight client-side gatekeeper (regex rules and ONNX/WASM inference) filters candidate elements before sending them to cloud-hosted XGBoost models trained per pattern type. The system includes a nightly online retraining pipeline with Golden Set evaluation, versioning, and rollback, along with a performance dashboard to monitor model drift. The goal is to help users recognize manipulative UI tactics as they browse, promoting more transparent digital experiences.
 </p>
 <br>
 
 ### [Congressional Generational Analysis](https://github.com/UC-Berkeley-I-School/final-project-209-congress)
 <p>
-  Interactive visualizations of the 119th US Congress, analyzing legislative activity by generation, party, and geography.
+  This project explores the 119th US Congress through the lens of generational cohorts, examining how legislative activity varies by age group, party affiliation, and geographic region. Using data from Congress.gov and demographic sources, I developed interactive D3.js visualizations that surface patterns in bill sponsorship, committee participation, and voting behavior across generations. The project aims to make congressional data more accessible and reveal how generational shifts shape policy priorities in US government.
 </p>
 <br>
 
-### [Modeling Age Based Disparities in Workplace Technology Adoption](https://github.com/janelai/Modeling-Age-Based-Disparities-in-Workplace-Technology-Adoption)
+### [Modeling Age-Based Disparities in Workplace Technology Adoption](https://github.com/janelai/Modeling-Age-Based-Disparities-in-Workplace-Technology-Adoption)
 <p>
   <img src="assets/workplace-technology.jpg" align="left" width="200" style="margin-right: 10px; margin-bottom: 10px;">
-  This project investigates how the percentage of time spent using electronic technologies at work varies by age. The analysis explores age-related disparities in technology usage across different job types and industries. By examining the relationship between age, work hours, and technology adoption while controlling for industry and occupation, the study aims to provide insights into workforce development and inform policies on technology training and support for diverse age groups in professional environments.
+  This project investigates how the percentage of time spent using electronic technologies at work varies by age across different industries and occupations. Using regression modeling, I examined the relationship between age, work hours, and technology adoption while controlling for job type and industry to isolate age-specific effects. The analysis aims to provide insights into workforce development and inform policies on technology training and support for diverse age groups in professional environments.
 </p>
 <br>
 
 ### [Graph-Theoretical Approach to Uncovering Hidden Risks in Stock Market Portfolios](https://github.com/janelai/Graph-Theoretical-Approach-to-Uncovering-Hidden-Risks-in-Stock-Market-Portfolios)
 <p>
   <img src="assets/stocks.jpg" align="left" width="200" style="margin-right: 10px; margin-bottom: 10px;">
-  This project models stocks as a correlation network to uncover hidden dependencies that traditional sector-based diversification overlooks. Using the Louvain algorithm to detect clusters of correlated assets and PageRank to identify influential stocks, it reveals cross-sector relationships and systemic risks not visible in standard models.
+  This project models the stock market as a correlation network to uncover hidden dependencies that traditional sector-based diversification overlooks. I applied the Louvain algorithm to detect clusters of correlated assets and used PageRank to identify the most systemically influential stocks within the network. The results reveal cross-sector relationships and concentration risks not visible in standard portfolio models, offering a graph-based perspective on how shocks can propagate across seemingly unrelated holdings.
 </p>
 <br>
 
 ### [Partisan Divergence in Education Policy Preferences: A Statistical Exploration](https://github.com/janelai/Partisan-Divergence-in-Education-Policy-Preferences-A-Statistical-Exploration)
 <p>
   <img src="assets/partisan-education.jpg" align="left" width="200" style="margin-right: 10px; margin-bottom: 10px;">
-  This project analyzes partisan disparities in primary and secondary education policy preferences between Democratic and Republican voters using data from the ANES 2024 Pilot Study. It examines attitudes toward education, including views on college professors and perceptions of party handling public school curricula. The goal is to uncover differences in how each party approaches education policy and understand the impact of political affiliation on educational priorities.
+  This project analyzes partisan disparities in primary and secondary education policy preferences between Democratic and Republican voters using data from the ANES 2024 Pilot Study. I examined attitudes toward college professors, perceptions of each party's handling of public school curricula, and broader views on educational priorities, applying statistical testing to quantify the significance of observed divergences. The goal is to understand how political affiliation shapes education policy preferences and where the two parties most sharply diverge.
 </p>
 <br>
 
 ### [Global Socioeconomic Indicators: A Multivariate Analysis](https://github.com/janelai/Global-Socioeconomic-Indicators-A-Multivariate-Analysis)
 <p>
   <img src="assets/wdi.jpg" align="left" width="200" style="margin-right: 10px; margin-bottom: 10px;">
-  This project analyzes the relationship between various global socioeconomic indicators, including government expenditure on education and GDP per capita, across three regions: Western Europe, Western Africa, and South Asia. Using a dataset from World Development Indicators (2000-2023), the study explores how education spending and economic development correlate within different regions, revealing nuanced insights into the factors that drive economic growth and educational disparities. Statistical methods such as clustering and influence analysis were applied to uncover hidden dependencies and cross-sector relationships not typically visible in standard models.
+  This project analyzes the relationship between global socioeconomic indicators, including government expenditure on education and GDP per capita, across Western Europe, Western Africa, and South Asia using World Development Indicators data (2000–2023). I applied clustering and influence analysis to explore how education spending and economic development correlate within each region and to surface cross-sector relationships not typically captured by standard models. The findings offer a nuanced view of the factors driving economic growth and educational disparities across diverse regional contexts.
 </p>
 <br>
