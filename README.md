@@ -53,7 +53,6 @@ Open to full-time Software Engineering and Data Analysis/Engineering roles start
   <img src="assets/deceptive-pattern-detector.jpg" align="left" width="200" style="margin-right: 10px; margin-bottom: 10px;">
   A browser extension that detects deceptive design patterns on websites in real time using a two-tier detection system. A lightweight client-side gatekeeper (regex rules and ONNX/WASM inference) filters candidate elements before sending them to cloud-hosted XGBoost models trained per pattern type. The system includes a nightly online retraining pipeline with Golden Set evaluation, versioning, and rollback, plus a performance dashboard to monitor model drift, helping users recognize manipulative UI tactics as they browse.
 </p>
-<br>
 
 ### Retrieval-Augmented Generation (RAG) System <br> <sub><i>Mar - Apr 2026</i></sub>
 <p>
@@ -61,12 +60,14 @@ Open to full-time Software Engineering and Data Analysis/Engineering roles start
   A RAG pipeline built with LangChain, Qdrant, and Cohere's Command R model to improve retrieval-grounded response accuracy. Evaluated using ROUGE-L and BERTScore to benchmark generation quality against baseline approaches.
 </p>
 <br>
+<br>
 
 ### QLoRA Fine-Tuning for Sentiment Classification <br> <sub><i>Feb - Mar 2026</i></sub>
 <p>
   <img src="assets/qlora.png" align="left" width="200" style="margin-right: 10px; margin-bottom: 10px;">
   Fine-tuned a Gemma-2-2B model using QLoRA on the SST2 dataset via Hugging Face, reducing compute requirements while maintaining classification performance.
 </p>
+<br>
 <br>
 
 ### [Congressional Data Visualization](https://github.com/UC-Berkeley-I-School/final-project-209-congress) <br> <sub><i>October - December 2025</i></sub>
@@ -76,10 +77,17 @@ Open to full-time Software Engineering and Data Analysis/Engineering roles start
 </p>
 <br>
 
-### [Predicting Eurovision Placements using Machine Learning] <br> <sub><i>June - August 2025</i></sub>
+### Predicting Eurovision Placements using Machine Learning <br> <sub><i>June - August 2025</i></sub>
 <p>
   <img src="assets/eurovision.jpg" align="left" width="200" style="margin-right: 10px; margin-bottom: 10px;">
   Predicted final placements in the Eurovision Song Contest using machine learning models trained on historical contest data, including performance order, country of origin, language, and audio features. Framed as an ordinal regression problem to respect the ranked nature of the target variable, comparing several model architectures in TensorFlow.
+</p>
+<br>
+
+### [Uncovering Risks in Stock Portfolios](https://github.com/janelai/Graph-Theoretical-Approach-to-Uncovering-Hidden-Risks-in-Stock-Market-Portfolios) <br> <sub><i>January - April 2025</i></sub>
+<p>
+  <img src="assets/stocks.jpg" align="left" width="200" style="margin-right: 10px; margin-bottom: 10px;">
+  Modeled the stock market as a correlation network to uncover hidden dependencies that traditional sector-based diversification overlooks. Applied the Louvain algorithm to detect clusters of correlated assets and PageRank to identify systemically influential stocks, revealing cross-sector relationships and concentration risks not visible in standard portfolio models.
 </p>
 <br>
 <!--
@@ -90,12 +98,6 @@ Open to full-time Software Engineering and Data Analysis/Engineering roles start
 </p>
 <br>
 -->
-### [Uncovering Risks in Stock Portfolios](https://github.com/janelai/Graph-Theoretical-Approach-to-Uncovering-Hidden-Risks-in-Stock-Market-Portfolios) <br> <sub><i>January - April 2025</i></sub>
-<p>
-  <img src="assets/stocks.jpg" align="left" width="200" style="margin-right: 10px; margin-bottom: 10px;">
-  Modeled the stock market as a correlation network to uncover hidden dependencies that traditional sector-based diversification overlooks. Applied the Louvain algorithm to detect clusters of correlated assets and PageRank to identify systemically influential stocks, revealing cross-sector relationships and concentration risks not visible in standard portfolio models.
-</p>
-<br>
 <!--
 ### [Partisan Divergence in Education Policy](https://github.com/janelai/Partisan-Divergence-in-Education-Policy-Preferences-A-Statistical-Exploration) <br> <sub><i>January - February 2025</i></sub>
 <p>
@@ -111,5 +113,4 @@ Open to full-time Software Engineering and Data Analysis/Engineering roles start
   Analyzed the relationship between global socioeconomic indicators — including government education expenditure and GDP per capita — across Western Europe, Western Africa, and South Asia using World Development Indicators data (2000–2023). Applied clustering and influence analysis to surface cross-sector relationships not typically captured by standard models.
 </p>
 <br>
--->
 -->
