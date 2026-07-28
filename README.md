@@ -55,13 +55,13 @@ Open to full-time Software Engineering and Data Analysis/Engineering roles start
 </p>
 <br>
 
-### [Retrieval-Augmented Generation (RAG) System] <br> <sub><i>Mar - Apr 2026</i></sub>
+### Retrieval-Augmented Generation (RAG) System <br> <sub><i>Mar - Apr 2026</i></sub>
 <p>
   A RAG pipeline built with LangChain, Qdrant, and Cohere's Command R model to improve retrieval-grounded response accuracy. Evaluated using ROUGE-L and BERTScore to benchmark generation quality against baseline approaches.
 </p>
 <br>
 
-### [QLoRA Fine-Tuning for Sentiment Classification] <br> <sub><i>Feb - Mar 2026</i></sub>
+### QLoRA Fine-Tuning for Sentiment Classification <br> <sub><i>Feb - Mar 2026</i></sub>
 <p>
   Fine-tuned a Gemma-2-2B model using QLoRA on the SST2 dataset via Hugging Face, reducing compute requirements while maintaining classification performance.
 </p>
