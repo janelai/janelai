@@ -80,31 +80,34 @@ Open to full-time Software Engineering and Data Analysis/Engineering roles start
   Predicted final placements in the Eurovision Song Contest using machine learning models trained on historical contest data, including performance order, country of origin, language, and audio features. Framed as an ordinal regression problem to respect the ranked nature of the target variable, comparing several model architectures in TensorFlow.
 </p>
 <br>
-
+<!--
 ### [Modeling Age & Workplace Technology Adoption](https://github.com/janelai/Modeling-Age-Based-Disparities-in-Workplace-Technology-Adoption) <br> <sub><i>March - April 2025</i></sub>
 <p>
   <img src="assets/workplace-technology.jpg" align="left" width="200" style="margin-right: 10px; margin-bottom: 10px;">
   Investigated how the percentage of time spent using electronic technologies at work varies by age across industries and occupations. Used regression modeling to examine the relationship between age, work hours, and technology adoption while controlling for job type and industry to isolate age-specific effects.
 </p>
 <br>
-
+-->
 ### [Uncovering Risks in Stock Portfolios](https://github.com/janelai/Graph-Theoretical-Approach-to-Uncovering-Hidden-Risks-in-Stock-Market-Portfolios) <br> <sub><i>January - April 2025</i></sub>
 <p>
   <img src="assets/stocks.jpg" align="left" width="200" style="margin-right: 10px; margin-bottom: 10px;">
   Modeled the stock market as a correlation network to uncover hidden dependencies that traditional sector-based diversification overlooks. Applied the Louvain algorithm to detect clusters of correlated assets and PageRank to identify systemically influential stocks, revealing cross-sector relationships and concentration risks not visible in standard portfolio models.
 </p>
 <br>
-
+<!--
 ### [Partisan Divergence in Education Policy](https://github.com/janelai/Partisan-Divergence-in-Education-Policy-Preferences-A-Statistical-Exploration) <br> <sub><i>January - February 2025</i></sub>
 <p>
   <img src="assets/partisan-education.jpg" align="left" width="200" style="margin-right: 10px; margin-bottom: 10px;">
   Analyzed partisan disparities in primary and secondary education policy preferences using ANES 2024 Pilot Study data, examining attitudes toward college professors, perceptions of each party's handling of public school curricula, and broader educational priorities, with statistical testing to quantify observed divergences.
 </p>
 <br>
-
+-->
+<!--
 ### [Global Socioeconomic Indicators](https://github.com/janelai/Global-Socioeconomic-Indicators-A-Multivariate-Analysis) <br> <sub><i>November - December 2024</i></sub>
 <p>
   <img src="assets/wdi.jpg" align="left" width="200" style="margin-right: 10px; margin-bottom: 10px;">
   Analyzed the relationship between global socioeconomic indicators — including government education expenditure and GDP per capita — across Western Europe, Western Africa, and South Asia using World Development Indicators data (2000–2023). Applied clustering and influence analysis to surface cross-sector relationships not typically captured by standard models.
 </p>
 <br>
+-->
+-->
